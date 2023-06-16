@@ -5,9 +5,9 @@
 
 # USO:
 # Se vc tiver curl instalado no servidor:
-# curl URL | bash
+# curl https://raw.githubusercontent.com/ruan-oliveira/scripts/main/coleta_status_server_linux.sh | bash
 # Se vc tiver o wget:
-#  wget -O- -q URL | bash
+#  wget -O- -q https://raw.githubusercontent.com/ruan-oliveira/scripts/main/coleta_status_server_linux.sh | bash
 
 
 # FUTURO:
