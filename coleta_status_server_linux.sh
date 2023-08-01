@@ -83,7 +83,4 @@ function coleta {
         iostat | tee -a $LOG
 }
 
-echo "Eu amo a natalia"
-
-
 main
